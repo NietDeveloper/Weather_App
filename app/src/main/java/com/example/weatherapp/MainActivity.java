@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
         protected void onPreExecute(){
             super.onPreExecute();
-            result_info.setText("Ожидайте...");
+            result_info.setText("Ожидайте....");
         }
         @Override
         protected String doInBackground(String... strings) {
