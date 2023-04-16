@@ -1,2 +1,2 @@
-# Weather_App
+# WeatherApp
 My first program
